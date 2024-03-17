@@ -76,6 +76,7 @@ $packages = @(
     'gpg4win'
     'jetbrainstoolbox',
     'discord',
+    'microsoft-windows-terminal'
     'openjdk',
     'everything',
     'geogebra',
