@@ -73,6 +73,7 @@ $packages = @(
     'nilesoft-shell',
     'steam-client',
     'vscodium',
+    'gpg4win'
     'jetbrainstoolbox',
     'discord',
     'openjdk',
