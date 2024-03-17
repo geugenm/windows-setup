@@ -1,4 +1,22 @@
-# Windows Setup Automation for Developers
+<div align="center">
+  <a href="https://github.com/geugenm/windows-setup">
+    <img src=".github/img/logo.png" alt="Logo" width="80" height="80">
+  </a>
+  <h3 align="center">Windows Setup Automation for Developers</h3>
+
+  <p align="center">
+    Windows Setup Automation for Developers is a project that aims to simplify and automate the Windows setup process for developers. By leveraging this repository, you can save time and focus on what matters most - coding!
+    <br />
+    <a href="https://github.com/geugenm/windows-setup/tree/master/docs"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">README template</a>
+    ·
+    <a href="https://github.com/geugenm/windows-setup/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/geugenm/windows-setup/issues">Request Feature</a>
+  </p>
+</div>
 
 ## Description
 Welcome to **Windows Setup Automation for Developers**, a comprehensive repository designed to streamline the Windows configuration process for developers. This project aims to save time and effort by automating the setup of essential development tools and configurations on Windows systems. Whether you're setting up a new development environment or looking to refresh your existing setup, this repository provides a simple and efficient solution.
@@ -31,7 +49,3 @@ Contributions are welcome! If you have a feature request, bug report, or wish to
 
 ## License
 This project is licensed under the GNU License. See the [LICENSE](LICENSE) file for details.
-
----
-
-**Windows Setup Automation for Developers** is a project that aims to simplify and automate the Windows setup process for developers. By leveraging this repository, you can save time and focus on what matters most - coding!
