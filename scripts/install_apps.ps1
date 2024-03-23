@@ -35,6 +35,7 @@ $packages = @(
     'bulk-crap-uninstaller',
     'gitkraken',
     'python',
+    'thunderbird',
     'neovim',
     'syncthing'
     'clink',
@@ -47,17 +48,17 @@ $packages = @(
     '7zip.install',
     'nodejs',
     'cmake',
-    'simplewall.install'
-    'firefox'
+    'simplewall.install',
+    'firefox',
     'vlc',
     'nilesoft-shell',
     'steam-client',
-    'spotify'
+    'spotify',
     'vscodium',
-    'gpg4win'
+    'gpg4win',
     'jetbrainstoolbox',
     'discord',
-    'microsoft-windows-terminal'
+    'microsoft-windows-terminal',
     'openjdk',
     'everything',
     'geogebra',
@@ -71,7 +72,7 @@ $packages = @(
     'sysinternals',
     'powertoys',
     'msys2',
-    'dotnet --version=8.0.0'
+    'dotnet --version=8.0.0',
     'nmap',
     'wireshark',
     'obs-studio',
